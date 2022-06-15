@@ -43,3 +43,29 @@ button:focus {
 .p-1 {
     padding: 1px;
 }
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+h3 {
+    color: #17202A;
+}
+
+h1 {
+    color: #212F3D;
+}
+
+.li {
+    color:#34495E;
+}
+
+input {
+    display: block;
+    margin: 5px;
+}
